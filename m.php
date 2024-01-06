@@ -10,6 +10,6 @@ error_reporting(0);
 system("clear");
 
 
-
+echo "daghhsghaghagah\n";
 
 ?>
