@@ -9,7 +9,6 @@ $trang="\033[1;37m";
 error_reporting(0);
 system("clear");
 
-
-echo "daghhsghaghagah\n";
+xoa het
 
 
